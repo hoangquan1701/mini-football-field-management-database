@@ -49,8 +49,8 @@ mini-football-field-management-database/
 │   └── QuanLySanBong_InsertData.sql
 │
 ├── diagrams/
-│   ├── er.jpg
-│   └── Lược đồ quan hệ.jpg
+│   ├── ER_quan_ly_san_bong.png
+│   └── luoc_do_quan_he.png
 │
 ├── queries/
 │   └── QuanLySanBong_Querry.sql
