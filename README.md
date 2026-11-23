@@ -33,11 +33,11 @@ The project includes:
 
 ### Entity Relationship Diagram
 
-![Entity Relationship Diagram](diagrams/er.jpg)
+![Entity Relationship Diagram](diagrams/ER_quan_ly_san_bong.png)
 
 ### Relational Schema
 
-![Relational Schema](diagrams/Lược%20đồ%20quan%20hệ.jpg)
+![Relational Schema](diagrams/luoc_do_quan_he.png)
 
 ## 4. Repository Structure
 
